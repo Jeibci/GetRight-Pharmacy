@@ -1,20 +1,84 @@
-index.html
-about.html
-blog.html
-Can-Nigeria-Achieve-Universal-Health-Coverage-Amid-Economic-Challenges.html
-drug-abuse.html
-health-and-exercise.html
-licensed-pharmacy.html
-medicine-adulteration.html
-medicine-are-meant-to-heal.html
-Pharmacists-Handle-Mild-to-Moderate-Health-Conditions.html
-pharmacy-service.html
-Polypharmacy-A-Growing-Healthcare-Concern-in-Nigeria.html
-robots.txt
-self-medication.html
-shop.html
-shop-single.html
-sitemap.xml
-The-Role-of-Community-Pharmacies-in-Achieving.html
-water-healthy-intake-of-water-.html
-why-primary-healthcare-remains-the-backbone-of-every-heatlthcare-system.html
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://getpharm.com/</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://getpharm.com/about.html</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://getpharm.com/blog.html</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://getpharm.com/Polypharmacy-A-Growing-Healthcare-Concern-in-Nigeria.html</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://getpharm.com/drug-abuse.html</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://getpharm.com/health-and-exercise.html</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://getpharm.com/licensed-pharmacy.html</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://getpharm.com/medicine-adulteration.html</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://getpharm.com/medicine-are-meant-to-heal.html</loc>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://getpharm.com/can-pharmacists-handle-mild-conditions.html</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://getpharm.com/pharmacy-service.html</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://getpharm.com/self-medication.html</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://getpharm.com/community-pharmacies-universal-healthcare.html</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://getpharm.com/water-healthy-intake-of-water-.html</loc>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://getpharm.com/why-primary-healthcare-matters.html</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://getpharm.com/Can-Nigeria-Achieve-Universal-Health-Coverage-Amid-Economic-Challenges.html</loc>
+    <priority>0.8</priority>
+  </url>
+
+</urlset>
